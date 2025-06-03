@@ -1,1 +1,61 @@
 /* write your override styles here */
+* {
+    background: no-repeat;
+    display: block;
+}
+.tag-1{
+    background: url(../images/tag-1.png);
+    z-index: 7;
+}
+#wall.tag-1 {
+    display: none;
+}
+.tag-2{
+    background: url(../images/tag-2.png);
+    z-index: 6;
+    
+}
+#wall.tag-2 {
+    display: none;
+}
+.tag-3{
+    background: url(../images/tag-3.png);
+    z-index: 5;
+    
+}
+#wall.tag-3 {
+    display: none;
+}
+.tag-4{
+    background: url(../images/tag-4.png);
+    z-index: 4;
+    
+}
+#wall.tag-4 {
+    display: none;
+}
+.tag-5{
+    background: url(../images/tag-5.png);
+    z-index: 3;
+    
+}
+#wall.tag-5 {
+    display: none;
+}
+.tag-6{
+    background: url(../images/tag-6.png);
+    z-index: 2;
+    
+}
+#wall.tag-6 {
+    display: none;
+}
+.tag-6{
+    background: url(../images/tag-6.png);
+    z-index: 1;
+    
+}
+#wall.tag-6 {
+    display: none;
+}
+
